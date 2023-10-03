@@ -52,7 +52,7 @@ print(b)
 print(a+' '+b)
 
 
-# In[12]:
+# In[2]:
 
 
 a=float(str(1))
@@ -65,7 +65,7 @@ else:
     
 
 
-# In[33]:
+# In[1]:
 
 
 import random
@@ -73,6 +73,14 @@ def guess_num(1,20):
     random_number=random.randint(1,20)
     while true:
     print('Congratulations,it is true!')
+
+
+# In[8]:
+
+
+a="ziqin is a student"
+a_split = a.split(" ")
+print(a_split)
 
 
 # In[ ]:
